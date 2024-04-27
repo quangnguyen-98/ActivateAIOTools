@@ -6,7 +6,7 @@
 
 ## Download Activate AIO Tools ##
   - Activate AIO Tools v3.1.3:
-    - Download [tại đây](https://storage.live.com/downloadfiles/V1/Zip?authKey=%21AK95pWhgmc7AkeM&application=1141147648) hoặc [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6gnqveaVoYJnOwJHj?e=bUlqCJ)
+    - Download [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6gnqveaVoYJnOwJHj?e=bUlqCJ)
     - Chúng tôi sẽ cập nhật thường xuyên.
     - Tool kích hoạt được Office và Windows.
     - Download về làm theo hướng dẫn dưới đây:
