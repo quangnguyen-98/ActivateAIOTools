@@ -1,10 +1,11 @@
 # Activate AIO Tools #
 
 - Người viết: Bs Nguyễn Chí Thành
-- - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
-- Đây là một Tool kích hoạt windows và office rất hay, nó gia hạn kích hoạt tự động và nhiều thứ khác.
+- ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 - ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
-
+- Đây là một Tool kích hoạt windows và office rất hay, nó gia hạn kích hoạt tự động và nhiều thứ khác.
+- Tools này hiện nay không nhạy bằng Tools MAS: https://github.com/BsNgChiThanh/MAS-TOOL
+  
 ## Download Activate AIO Tools ##
   - Activate AIO Tools v3.1.3:
     - Download [tại đây](https://raw.githubusercontent.com/BsNgChiThanh/ActivateAIOTools/IMP/Activate%20AIO%20Tools%20v3.1.3.rar) hoặc [tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EXTF17H3fVJPpAETWJmqatwBJcyRvJ0q1umB4yT912oLkA?e=mdxEcd)
